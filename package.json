@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "knex": "^1.0.3",
+    "mysql2": "^2.3.3"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
